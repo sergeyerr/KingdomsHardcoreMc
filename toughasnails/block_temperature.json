@@ -10,13 +10,6 @@
   },
   {
     "state": {
-      "block": "minecraft:lit_furnace",
-      "properties": {}
-    },
-    "temperature": 3.0
-  },
-  {
-    "state": {
       "block": "minecraft:lava",
       "properties": {}
     },
@@ -35,5 +28,12 @@
       "properties": {}
     },
     "temperature": 12.5
+  },
+  {
+    "state": {
+      "block": "cookingforblockheads:oven",
+      "properties": {}
+    },
+    "temperature": 5.0
   }
 ]
