@@ -1,0 +1,236 @@
+[
+  {
+    "item": {
+      "name": "minecraft:milk_bucket",
+      "metadata": 0
+    },
+    "thirst": 4,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:applejuiceitem",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:melonjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 4,
+    "hydration": 0.4,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:carrotjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 2,
+    "hydration": 0.3,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:strawberryjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 4,
+    "hydration": 0.3,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:blueberryjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 4,
+    "hydration": 0.3,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:grapejuiceitem",
+      "metadata": 0
+    },
+    "thirst": 4,
+    "hydration": 0.3,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:strawberryjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 4,
+    "hydration": 0.3,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:cherryjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 4,
+    "hydration": 0.3,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:papayajuiceitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.3,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:starfruitjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.3,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:orangejuiceitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.3,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:peachjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.3,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:limejuiceitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.3,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:mangojuiceitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.3,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:pomegranatejuiceitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.3,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:blackberryjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 4,
+    "hydration": 0.3,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:raspberryjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 4,
+    "hydration": 0.3,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:kiwijuiceitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.3,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:cranberryjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 4,
+    "hydration": 0.3,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:pearjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 4,
+    "hydration": 0.3,
+    "poisonChance": 0.0
+  },
+  {
+    "item":{
+      "name": "harvestcraft:apricotjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.3,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:figjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 4,
+    "hydration": 0.3,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:grapefruitjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.3,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:persimmonjuiceitem",
+      "metadata": 0
+    },
+    "thirst": 4,
+    "hydration": 0.3,
+    "poisonChance": 0.5
+  },
+  {
+    "item": {
+      "name": "rustic:fluid_bottle",
+      "metadata": 0
+    },
+    "thirst": 4,
+    "hydration": 0.3,
+    "poisonChance": 0.5
+  }
+]
