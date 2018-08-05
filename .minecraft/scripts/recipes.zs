@@ -1,7 +1,10 @@
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
 //#Remove
-recipes.remove(<toughasnails:fruit_juice:3>);
+recipes.remove(<ageofweapons:upgrade_future>);
+recipes.remove(<ageofweapons:upgrade_modern_age>);
+recipes.remove(<ageofweapons:upgrade_early_modern_age>);
+recipes.remove(<harvestcraft:epicbaconitem>);
 recipes.remove(<ancientwarfareautomation:chunk_loader_deluxe>);
 recipes.remove(<ancientwarfareautomation:chunk_loader_simple>);
 recipes.remove(<toughasnails:fruit_juice:9>);
