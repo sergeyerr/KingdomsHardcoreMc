@@ -1,0 +1,34 @@
+{
+  "questProgress:9": {
+    "0:10": {
+      "questID:3": 0,
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 0,
+          "uuid:8": "84d61f0f-2207-3ebc-b4fb-5ad26114669f",
+          "timestamp:4": 5182
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "completeUsers:9": {
+            "0:8": "84d61f0f-2207-3ebc-b4fb-5ad26114669f"
+          },
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      }
+    },
+    "1:10": {
+      "questID:3": 1,
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 0,
+          "uuid:8": "84d61f0f-2207-3ebc-b4fb-5ad26114669f",
+          "timestamp:4": 7628
+        }
+      },
+      "tasks:9": {}
+    }
+  }
+}

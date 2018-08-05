@@ -1,0 +1,7 @@
+{
+  "CheckLauncherUpdates": true,
+  "SkipAssetsDownload": false,
+  "EnableGameLogging": false,
+  "CloseTabAfterSuccessfulExitCode": true,
+  "SelectedLanguage": "ru-RU"
+}

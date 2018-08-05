@@ -1,0 +1,41 @@
+{
+  "selectedProfile": "forge",
+  "profiles": {
+    "Latest Release": {
+      "name": "Latest Release",
+      "launcherVisibilityOnGameClose": "keep the launcher open"
+    },
+    "FreeLauncher": {
+      "name": "FreeLauncher",
+      "gameDir": "E:\\minecraft",
+      "lastVersionId": "1.12.2",
+      "resolution": {
+        "height": 1080,
+        "width": 1920
+      },
+      "launcherVisibilityOnGameClose": "keep the launcher open"
+    },
+    "Latest Snapshot": {
+      "name": "Latest Snapshot",
+      "allowedReleaseTypes": [
+        "snapshot"
+      ],
+      "launcherVisibilityOnGameClose": "keep the launcher open"
+    },
+    "OptiFine": {
+      "name": "OptiFine",
+      "lastVersionId": "1.12.2-forge1.12.2-14.23.4.2705",
+      "launcherVisibilityOnGameClose": "keep the launcher open"
+    },
+    "forge": {
+      "name": "forge",
+      "lastVersionId": "1.12.2-forge1.12.2-14.23.4.2705",
+      "resolution": {
+        "height": 1080,
+        "width": 1920
+      },
+      "javaArgs": "-Xms1024M -Xmx4G",
+      "launcherVisibilityOnGameClose": "keep the launcher open"
+    }
+  }
+}

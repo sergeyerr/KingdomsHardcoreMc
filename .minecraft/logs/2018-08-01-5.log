@@ -1,0 +1,46 @@
+[23:42:51] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[23:42:51] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[23:42:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[23:42:51] [main/INFO] [FML]: Forge Mod Loader version 14.23.4.2705 for Minecraft 1.12.2 loading
+[23:42:51] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_181, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_181
+[23:42:55] [main/INFO] [FML]: Searching C:\Users\Sergey\AppData\Roaming\.minecraft\mods for mods
+[23:42:55] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in astralsorcery_1.12.2_1.9.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:42:55] [main/WARN] [FML]: The coremod hellfirepvp.astralsorcery.core.AstralCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:42:55] [main/INFO] [FML]: [AstralCore] Initialized.
+[23:42:55] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in BetterFoliage-MC1.12-2.1.10.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:42:55] [main/WARN] [FML]: The coremod mods.betterfoliage.loader.BetterFoliageLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:42:55] [main/WARN] [FML]: The coremod BetterFoliageLoader (mods.betterfoliage.loader.BetterFoliageLoader) is not signed!
+[23:42:55] [main/INFO] [FML]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
+[23:42:55] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-0.3.2.18.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:42:55] [main/WARN] [FML]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:42:55] [main/WARN] [FML]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[23:42:55] [main/WARN] [FML]: The coremod ivorius.ivtoolkit.IvToolkitLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:42:55] [main/WARN] [FML]: The coremod IvToolkit (ivorius.ivtoolkit.IvToolkitLoadingPlugin) is not signed!
+[23:42:55] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_E2.jar
+[23:42:55] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Quark-r1.4-125.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:42:55] [main/WARN] [FML]: The coremod vazkii.quark.base.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:42:55] [main/WARN] [FML]: The coremod LoadingPlugin (vazkii.quark.base.asm.LoadingPlugin) is not signed!
+[23:42:55] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:42:55] [main/INFO] [LaunchWrapper]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
+[23:42:55] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[23:42:55] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[23:42:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:42:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:42:55] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[23:42:55] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[23:42:55] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: injectIntoClassLoader
+[23:42:55] [main/INFO] [STDOUT]: [optifine.OptiFineClassTransformer:dbg:221]: OptiFine ClassTransformer
+[23:42:55] [main/INFO] [STDOUT]: [optifine.OptiFineClassTransformer:dbg:221]: OptiFine ZIP file: C:\Users\Sergey\AppData\Roaming\.minecraft\mods\OptiFine_1.12.2_HD_U_E2.jar
+[23:42:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:42:57] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[23:42:57] [main/INFO] [FML]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[23:42:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:42:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:42:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:42:57] [main/INFO] [LaunchWrapper]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
+[23:42:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[23:42:57] [main/INFO] [FML]: [AstralTransformer] Loading patches...
+[23:42:58] [main/INFO] [FML]: [AstralTransformer] Initialized! Loaded 8 class patches!
+[23:42:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:42:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:42:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
